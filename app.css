@@ -53,3 +53,13 @@ a {
   img {
     cursor: pointer;
   }
+
+  .food-info {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 450px;
+    height: 50vh;
+    background: red;
+    z-index: 999;
+  }

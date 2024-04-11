@@ -83,3 +83,4 @@ function renderCategories2(data) {
       </div>`
     }
   }
+
